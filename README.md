@@ -1,7 +1,11 @@
 # Gesture-controlled-Robotics
-This repository contains the projet report on my work on Gesture Controller Robotics.
+This repository contains the project report on my work on Gesture Controller Robotics.
 
 The report contains the summary of the project and all the observations along with explanations and the observations.
+
+## Tools used ##
+Python (programming language)
+RoboDK (for simulation)
 
 
 # Description 
@@ -9,3 +13,6 @@ We simulated a manipulator robot which executed instructions in the form of draw
 The report contains pictures to rovide a better understanding of the project. 
 
 Enjoy the read.
+
+
+<a href='https://www.researchgate.net/publication/325074152_Robot_control_using_pattern_recognition'> Full text</a>
