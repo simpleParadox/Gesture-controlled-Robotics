@@ -4,8 +4,8 @@ This repository contains the project report on my work on Gesture Controller Rob
 The report contains the summary of the project and all the observations along with explanations and the observations.
 
 ## Tools used ##
-Python (programming language)
-RoboDK (for simulation)
+* Python (programming language)
+* RoboDK (for simulation)
 
 
 # Description 
